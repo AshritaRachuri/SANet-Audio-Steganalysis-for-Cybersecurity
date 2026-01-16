@@ -23,15 +23,16 @@ SANet aims to:
 The following diagram illustrates the high-level architecture of SANet, showing the interaction between
 audio input, preprocessing, deep learning inference, and result generation.
 
-![SANet Architecture](./assets/images/architecture.png)
-
+![SANet Architecture]![architecture png]
+(https://github.com/user-attachments/assets/08d3f592-09d1-4a45-ab89-19e36e095c99)
 
 ## 🔄 Workflow
 
 The workflow below outlines the step-by-step execution pipeline of the SANet system,
 from audio upload to steganalysis detection and result visualization.
 
-![SANet Workflow](./assets/images/workflow.png)
+![SANet Workflow]
+![workflow png](https://github.com/user-attachments/assets/5871d633-5224-4547-b5a7-bfc8c5eda8ea)
 
 
 ## 🚀 Key Applications
