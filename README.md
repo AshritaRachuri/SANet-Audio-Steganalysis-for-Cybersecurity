@@ -23,8 +23,9 @@ SANet aims to:
 The following diagram illustrates the high-level architecture of SANet, showing the interaction between
 audio input, preprocessing, deep learning inference, and result generation.
 
-![SANet Architecture]![architecture png]
-(https://github.com/user-attachments/assets/08d3f592-09d1-4a45-ab89-19e36e095c99)
+![SANet Architecture]
+![architecture png](https://github.com/user-attachments/assets/efa8b16e-0684-487e-bbff-1f8d39e67609)
+
 
 ## 🔄 Workflow
 
